@@ -1,1 +1,2 @@
 # Social-Media-Application
+This project outlines a complete and responsive social media application developed using the MERN stack (MongoDB, Express.js, React, and Node.js). The application adheres to a three-tier architecture and incorporates unit tests for each tier. It exemplifies a full-stack application leveraging modern web technologies to deliver a responsive and engaging social media experience.
