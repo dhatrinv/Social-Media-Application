@@ -1,9 +1,4 @@
 # Social-Media-Application
-Here's a reformatted version of your project outline suitable for a GitHub README:
-
----
-
-# Social Media Application
 
 ## Overview
 
